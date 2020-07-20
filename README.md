@@ -5,3 +5,4 @@ Quelques tuyaux que je partage pour répondre à des questions qu'on m'a posé o
 ## Sommaire
 
 - [Choisir un ordinateur](computer)
+- [Navigateur Firefox](firefox)

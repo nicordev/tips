@@ -30,19 +30,21 @@ Perso j'opterais pour soit un gros SSD (capacité supérieure à 500 Go) seul, s
 
 La mémoire vive est utilisée par les programmes en fonctionnement. Aujourd'hui les programmes sont assez gourmand (notamment les navigateurs web).
 
-> *En bref :* au grand minimum 4 Go. 8 c'est mieux. 16 c'est top.
+> *En bref :* au grand minimum 4 Go. 8 c'est nettement mieux. 16 c'est top.
 
 ## Processeur
 
 Plus il y a de *cores* et plus l'ordinateur est à l'aise à effectuer plusieurs tâches en même temps.
 
-> *En bref :* i5 ou supérieur c'est sympa.
+Intel ou AMD ? Je ne connais que les Intel i5, i7, mais apparement les AMD Ryzen peuvent être sympa. A creuser.
+
+> *En bref :* i5 ou supérieur c'est sympa. Peut-être AMD Ryzen.
 
 ## Système d'exploitation
 
-Si vous n'avez pas assez de sous pour avoir un mac, vous aurez certainement droit à du Windows familial ou pro qui coûtent cher.
+Si vous n'avez pas assez de sous pour avoir un mac, vous aurez certainement droit à du Windows familial ou pro qui coûtent cher. Il y a aussi Chrome OS qui est très limité donc inutile à mon avis.
 
-Je vous conseille de fuir Windows et de basculer sur Linux. C'est gratuit, open source et vous pourrez vraiment maitriser votre ordinateur.
+Une fois que vous avez votre ordinateur, je vous conseille de basculer sur Linux. C'est gratuit, open source et vous pourrez vraiment maitriser votre ordinateur.
 
 Voici quelques distributions Linux :
 - Ubuntu : la plus utilisée.
@@ -52,4 +54,8 @@ Voici quelques distributions Linux :
 
 Voici un cours d'OpenClassrooms pour apprendre à utiliser Linux : [reprenez le contrôle à l'aide de linux](https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux)
 
-> *En bref :* Tout sauf Windows.
+Au passage Microsoft Office (excel, word...) ne fonctionnent pas sous Linux. Heureusement vous pouvez utiliser des alternatives gratuites comme Google suite (sheets, doc) ou LibreOffice (calc, writer) et ainsi vous libérer de cette dépendance nocive à Microsoft.
+
+En plus si vraiment vous avez besoin de Windows de temps en temps, vous pouvez installer Linux en parallèle de Windows.
+
+> *En bref :* éviter Chrome OS. Si vous avez Windows, installer une distribution Linux. Si vous avez un Mac, enjoy.
